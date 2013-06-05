@@ -6,7 +6,7 @@ Kate &quot;Mac&quot; McCaffrey: Digital Tinker (Core)
 
 
 Total Cards: (45)
-Event (20)
+Event (17)
 3x Diesel (Core #34) 
 1x Easy Mark (Core #19) ■
 2x Inside Job (Core #21) ■■■
@@ -14,29 +14,29 @@ Event (20)
 3x Sure Gamble (Core #50) 
 3x Test Run (Cyber Exodus #47) 
 3x The Maker's Eye (Core #36) 
-3x Tinkering (Core #37) 
 
-Hardware (8)
+Hardware (14)
 3x Cyberfeeder (Core #5) ■
+2x E3 Feedback Implants (Trace Amount #24) ■■
 3x Rabbit Hole (Core #39) 
+2x Replicator (Humanity's Shadow #88) 
+2x The Personal Touch (Core #40) 
 2x The Toolbox (Core #41) 
 
-Program (11)
-1x Crypsis (Core #51) 
+Program (10)
+2x Battering Ram (Core #42) 
+2x Creeper (Humanity's Shadow #89) 
 1x Deus X (A Study in Static #66) 
 1x Femme Fatale (Core #26) ■
 2x Gordian Blade (Core #43) 
 2x Magnum Opus (Core #44) 
-2x Ninja (Core #27) ■■
-2x Snowball (Trace Amount #27) 
 
-Resource (6)
+Resource (4)
 2x Armitage Codebusting (Core #53) 
-2x Personal Workshop (Cyber Exodus #49) 
 2x Underworld Contact (A Study in Static #69) 
 
 
 Influence Values Totals - 
  Anarch: 3 
  Criminal: 12
- Shaper: 67
+ Shaper: 57
