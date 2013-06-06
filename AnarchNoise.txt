@@ -1,0 +1,39 @@
+Deck Created with CardGameDB.com Android: Netrunner Deck Builder
+http://www.cardgamedb.com/index.php/netrunner/android-netrunner-deck-builder
+
+Identity:
+Noise: Hacker Extraordinaire (Core) 
+
+
+Total Cards: (45)
+Event (13)
+3x Deja Vu (Core #2) 
+3x Demolition Run (Core #3) 
+3x Diesel (Core #34) ■■
+3x Easy Mark (Core #19) ■
+1x Sure Gamble (Core #50) 
+
+Hardware (5)
+3x Cyberfeeder (Core #5) 
+2x Grimoire (Core #6) 
+
+Program (19)
+3x Crypsis (Core #51) 
+3x Datasucker (Core #8) 
+3x Djinn (Core #9) 
+3x Imp (What Lies Ahead #3) 
+2x Medium (Core #10) 
+2x Nerve Agent (Cyber Exodus #41) 
+3x Parasite (Core #12) 
+
+Resource (8)
+2x Armitage Codebusting (Core #53) 
+2x Data Dealer (Core #31) ■■
+2x Liberated Account (Trace Amount #22) 
+2x Scrubber (A Study in Static #63) 
+
+
+Influence Values Totals - 
+ Anarch: 59 
+ Criminal: 7
+ Shaper: 6
