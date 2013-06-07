@@ -12,13 +12,14 @@ Agenda (10)
 3x Nisei MK II (Core #68) 
 1x Private Security Force (Core #107) 
 
-Asset (12)
-3x Aggressive Secretary (Core #57) ■■
+Asset (14)
+2x Aggressive Secretary (Core #57) ■■
 3x PAD Campaign (Core #109) 
 3x Project Junebug (Core #69) 
+3x Ronin (Future Proof #112) 
 3x Snare! (Core #70) 
 
-ICE (19)
+ICE (17)
 2x Bullfrog (A Study in Static #73) 
 2x Chum (Core #75) 
 2x Data Mine (Core #76) 
@@ -26,12 +27,11 @@ ICE (19)
 3x Neural Katana (Core #77) 
 2x Snowflake (What Lies Ahead #15) 
 2x Viktor 1.0 (Core #63) ■■
-2x Wall of Thorns (Core #78) 
 2x Whirlpool (Humanity's Shadow #94) 
 
 Operation (6)
 3x Hedge Fund (Core #110) 
-3x Neural EMP (Core #72) 
+3x Trick of Light (Trace Amount #33) 
 
 Upgrade (2)
 2x Hokusai Grid (Humanity's Shadow #95) 
@@ -40,7 +40,7 @@ Upgrade (2)
 Total Agenda Points: 20
 
 Influence Values Totals - 
- Haas-Bioroid: 10 
- Jinteki: 45
+ Haas-Bioroid: 8 
+ Jinteki: 58
  NBN: 0
  The Weyland Consortium: 0
