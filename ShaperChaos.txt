@@ -1,0 +1,38 @@
+Deck Created with CardGameDB.com Android: Netrunner Deck Builder
+http://www.cardgamedb.com/index.php/netrunner/android-netrunner-deck-builder
+
+Identity:
+Chaos Theory: Wunderkind (Cyber Exodus) 
+
+
+Total Cards: (40)
+Event (17)
+1x Deja Vu (Core #2) ■■
+3x Diesel (Core #34) 
+2x Notoriety (Trace Amount #26) 
+2x Quality Time (Humanity's Shadow #87) 
+3x Sure Gamble (Core #50) 
+3x Surge (Humanity's Shadow #81) ■
+3x Test Run (Cyber Exodus #47) 
+
+Hardware (8)
+2x E3 Feedback Implants (Trace Amount #24) ■■
+3x Replicator (Humanity's Shadow #88) 
+3x The Personal Touch (Core #40) 
+
+Program (5)
+1x Crypsis (Core #51) 
+2x Darwin (Future Proof #102) ■■■
+2x Magnum Opus (Core #44) 
+
+Resource (10)
+2x Armitage Codebusting (Core #53) 
+2x Kati Jones (Humanity's Shadow #91) 
+3x Sacrificial Construct (Core #48) 
+3x The Helpful AI (What Lies Ahead #8) 
+
+
+Influence Values Totals - 
+ Anarch: 11 
+ Criminal: 4
+ Shaper: 44
