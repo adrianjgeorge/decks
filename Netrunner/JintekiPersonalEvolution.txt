@@ -12,27 +12,27 @@ Agenda (11)
 2x Gila Hands Arcology (Creation and Control #23) 
 3x Nisei MK II (Core #68) 
 
-Asset (13)
+Asset (15)
 2x Cerebral Overwriter (Creation and Control #9) ■■
-1x Melange Mining Corp (Core #108) 
 2x PAD Campaign (Core #109) 
 3x Project Junebug (Core #69) 
 2x Ronin (Future Proof #112) 
+3x Shock! (True Colors #73) 
 3x Snare! (Core #70) 
 
 ICE (15)
 2x Chum (Core #75) 
 2x Data Mine (Core #76) 
-2x Enigma (Core #111) 
 3x Neural Katana (Core #77) 
-2x Snowflake (What Lies Ahead #15) 
+2x Swordsman (Second Thoughts #33) 
+2x Tsurugi (True Colors #74) 
 2x Viktor 1.0 (Core #63) ■■
 2x Whirlpool (Humanity's Shadow #94) 
 
-Operation (8)
+Operation (6)
 3x Hedge Fund (Core #110) 
+1x Scorched Earth (Core #99) ■■■■
 2x Successful Demonstration (Creation and Control #14) ■
-3x Trick of Light (Trace Amount #33) 
 
 Upgrade (2)
 2x Hokusai Grid (Humanity's Shadow #95) 
@@ -42,6 +42,6 @@ Total Agenda Points: 20
 
 Influence Values Totals - 
  Haas-Bioroid: 10 
- Jinteki: 50
+ Jinteki: 49
  NBN: 0
- The Weyland Consortium: 0
+ The Weyland Consortium: 4
