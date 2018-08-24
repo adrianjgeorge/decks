@@ -88,6 +88,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Baku Altar,Betrayers of Kamigawa,152,Near Mint,English,,,,,,,,
 2,0,Balm of Restoration,Fallen Empires,167,Near Mint,English,,,,,,,,
 1,0,Balthor the Defiled,Judgment,61,Near Mint,English,,,,,,,,
+3,0,Banewasp Affliction,Shards of Alara,65,Near Mint,English,,,,,,,,0
 9,5,Banshee's Blade,Mirrodin,144,Near Mint,English,,,,,,,,
 1,0,Barbed Battlegear,Scars of Mirrodin,139,Near Mint,English,,,,,,,,
 24,20,Barbed Sextant,Ice Age,287,Near Mint,English,,,,,,,,0
@@ -95,30 +96,55 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Barbed Wire,Mercadian Masques,287,Near Mint,English,,,,,,,,
 2,0,Barl's Cage,Chronicles,74,Near Mint,English,,,,,,,,0
 1,0,Barrin's Codex,Urza's Saga,286,Near Mint,English,,,,,,,,
+6,2,Barter in Blood,Mirrodin,57,Near Mint,English,,,,,,,,0
 11,7,Basalt Monolith,Revised Edition,235,Near Mint,English,,,,,,,,0
 20,16,Baton of Courage,Fifth Dawn,105,Near Mint,English,,,,,,,,
 3,0,Baton of Morale,Ice Age,288,Near Mint,English,,,,,,,,
 21,17,Battered Golem,Fifth Dawn,106,Near Mint,English,,,,,,,,0
 1,0,Battering Ram,Antiquities,6,Near Mint,English,,,,,,,,0
 10,7,Battering Ram,Fourth Edition,315,Near Mint,English,,,,,,,,0
+1,0,Beacon of Unrest,Fifth Dawn,41,Near Mint,English,,,,,,,,0
+1,0,Beacon of Unrest,Tenth Edition,129,Near Mint,English,,,,,,,,0
 2,0,Beast of Burden,Eighth Edition,292,Near Mint,English,,,,,,,,0
 1,0,Beast of Burden,Ninth Edition,288,Near Mint,English,,,,,,,,0
-1,0,Beseech the Queen,Shadowmoor,57,Near Mint,English,,,,,,,,
+2,1,Befoul,Urza's Saga,116,Near Mint,English,,,,,,,,0
+2,1,Befoul,Seventh Edition,118,Near Mint,English,,,,,,,,0
+15,13,Befoul,Champions of Kamigawa,102,Near Mint,English,,,,,,,,0
+1,0,Bereavement,Seventh Edition,120,Near Mint,English,,,,,,,,0
+3,0,Beseech the Queen,Shadowmoor,57,Near Mint,English,,,,,,,,
+5,1,Betrayal of Flesh,Mirrodin,58,Near Mint,English,,,,,,,,0
+5,1,Binding Agony,Mirage,4,Near Mint,English,,,,,,,,0
+2,0,Bitter Ordeal,Future Sight,80,Near Mint,English,,,,,,,,0
+2,0,Bitterblossom,Morningtide,58,Near Mint,English,,,,,,,,0
 1,0,Black Market,Commander 2017,98,Near Mint,English,,,,,,,,
 8,4,Black Vise,Revised Edition,236,Near Mint,English,,,,,,,,0
+3,0,Blackmail,Onslaught,127,Near Mint,English,,,,,,,,0
+1,0,Blackmail,Ninth Edition,115,Near Mint,English,,,,,,,,0
 2,0,Bladed Pinions,Scars of Mirrodin,140,Near Mint,English,,,,,,,,
+8,4,Blanket of Night,Visions,2,Near Mint,English,,,,,,,,0
 5,1,Blasting Station,Fifth Dawn,107,Near Mint,English,,,,,,,,
 8,4,Blazethorn Scarecrow,Shadowmoor,246,Near Mint,English,,,,,,,,0
+29,25,Blessing of Leeches,Betrayers of Kamigawa,62,Near Mint,English,,,,,,,,0
+3,0,Blight,Fourth Edition,6,Near Mint,English,,,,,,,,0
 8,4,Blight Sickle,Shadowmoor,247,Near Mint,English,,,,,,,,
 2,0,Blinding Powder,Betrayers of Kamigawa,153,Near Mint,English,,,,,,,,
 3,0,Blinkmoth Urn,Mirrodin,145,Near Mint,English,,,,,,,,0
+2,0,Blood Tithe,Magic 2011,84,Near Mint,English,,,,,,,,0
+5,1,Blowfly Infestation,Shadowmoor,58,Near Mint,English,,,,,,,,0
+8,4,Bog Down,Planeshift,39,Near Mint,English,,,,,,,,0
+8,4,Boggart Birth Rite,Lorwyn,101,Near Mint,English,,,,,,,,0
+3,0,Bond of Agony,Dissension,38,Near Mint,English,,,,,,,,0
 1,0,Bone Flute,The Dark,94,Near Mint,English,,,,,,,,
+3,0,Bone Harvest,Mirage,6,Near Mint,English,,,,,,,,0
 1,0,Bone Saw,Conflux,135,Near Mint,English,,,,,,,,0
+3,0,Bone Splinters,Shards of Alara,67,Near Mint,English,,,,,,,,0
 17,13,Bonesplitter,Mirrodin,146,Near Mint,English,,,,,,,,
+1,0,Boneyard Parley,Ixalan,94,Near Mint,English,,,,,,,,0
 1,0,Bontu's Monument,Amonkhet,225,Near Mint,English,,,,,,,,0
 1,0,Booby Trap,Tempest,267,Near Mint,English,,,,,,,,0
 1,0,Book of Rass,Chronicles,75,Near Mint,English,,,,,,,,0
 1,0,Book of Rass,The Dark,95,Near Mint,English,,,,,,,,
+2,0,Booster Tutor,Unhinged,51,Near Mint,English,,,,,,,,0
 16,12,Boros Signet,Ravnica: City of Guilds,255,Near Mint,English,,,,,,,,0
 2,0,"Bosh, Iron Golem",Mirrodin,147,Near Mint,English,,,,,,,,0
 2,0,Bösium Strip,Weatherlight,146,Near Mint,English,,,,,,,,
@@ -127,14 +153,29 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Bottle Gnomes,Tenth Edition,312,Near Mint,English,,,,,,,,0
 1,0,Bottle of Suleiman,Fourth Edition,319,Near Mint,English,,,,,,,,0
 2,0,Bottled Cloister,Ravnica: City of Guilds,256,Near Mint,English,,,,,,,,
+3,0,Bottomless Pit,Stronghold,1,Near Mint,English,,,,,,,,0
 1,0,Braidwood Sextant,Urza's Destiny,127,Near Mint,English,,,,,,,,
+5,1,Brain Pry,Dissension,39,Near Mint,English,,,,,,,,0
+17,13,Brainspoil,Ravnica: City of Guilds,78,Near Mint,English,,,,,,,,0
 10,6,Brass Gnat,Time Spiral,249,Near Mint,English,,,,,,,,0
 11,11,Brass Man,Revised Edition,238,Near Mint,English,,,,,,,,0
 6,2,Brass Man,Fourth Edition,320,Near Mint,English,,,,,,,,0
 1,0,Brass-Talon Chimera,Visions,142,Near Mint,English,,,,,,,,0
+2,0,Breach,Urza's Saga,120,Near Mint,English,,,,,,,,0
+1,0,Breeding Pit,Fallen Empires,9,Near Mint,English,,,,,,,,0
+2,0,Bridge from Below,Future Sight,81,Near Mint,English,,,,,,,,0
+1,0,Brink of Disaster,Worldwake,52,Near Mint,English,,,,,,,,0
+1,0,Brink of Madness,Urza's Legacy,50,Near Mint,English,,,,,,,,0
+1,0,Broken Visage,Homelands,3,Near Mint,English,,,,,,,,0
 1,0,Bronze Bombshell,Dissension,160,Near Mint,English,,,,,,,,0
 1,0,Bronze Horse,Chronicles,76,Near Mint,English,,,,,,,,0
+14,10,Brush with Death,Stronghold,2,Near Mint,English,,,,,,,,0
+2,0,Bubbling Muck,Urza's Destiny,54,Near Mint,English,,,,,,,,0
 3,0,Bullwhip,Stronghold,126,Near Mint,English,,,,,,,,
+18,14,Burden of Greed,Darksteel,38,Near Mint,English,,,,,,,,0
+1,0,Buried Alive,Weatherlight,5,Near Mint,English,,,,,,,,0
+1,0,Buried Alive,Odyssey,118,Near Mint,English,,,,,,,,0
+24,20,Burnt Offering,Ice Age,4,Near Mint,English,,,,,,,,0
 1,0,Cabal Coffers,Torment,139,Near Mint,English,,,,,,,,
 1,0,Cabal Interrogator,Scourge,57,Near Mint,English,,,,,,,,
 1,0,Cabal Stronghold,Dominaria,238,Near Mint,English,,,,,,,,
@@ -298,7 +339,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Ebony Horse,Revised Edition,247,Near Mint,English,,,,,,,,0
 1,0,Ebony Horse,Fourth Edition,336,Near Mint,English,,,,,,,,0
 3,0,Ebony Owl Netsuke,Saviors of Kamigawa,154,Near Mint,English,,,,,,,,0
-4,0,Ebony Rhino,Homelands,131,Near Mint,English,,,,,,,,0
+4,1,Ebony Rhino,Homelands,131,Near Mint,English,,,,,,,,0
 1,0,"Elbrus, the Binding Blade",Dark Ascension,147,Near Mint,English,,,,,,,,0
 16,12,Elf Replica,Mirrodin,167,Near Mint,English,,,,,,,,0
 1,0,Elixir of Immortality,Magic 2011,206,Near Mint,English,,,,,,,,0
@@ -950,8 +991,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 6,2,Thought Prison,Mirrodin,261,Near Mint,English,,,,,,,,0
 1,0,Thousand-Year Elixir,Lorwyn,263,Near Mint,English,,,,,,,,0
 1,0,Thran Tome,Weatherlight,160,Near Mint,English,,,,,,,,0
-1,1,Thran War Machine,Urza's Legacy,134,Near Mint,English,,,,,misprint,,,0
 1,0,Thran War Machine,Urza's Legacy,134,Near Mint,English,,,,,,,,0
+1,1,Thran War Machine,Urza's Legacy,134,Near Mint,English,,,,,misprint,,,0
 8,8,Throne of Bone,Revised Edition,279,Near Mint,English,,,,,,,,0
 6,4,Throne of Bone,Fourth Edition,371,Near Mint,English,,,,,,,,0
 1,1,Throne of Bone,Fifth Edition,403,Near Mint,English,,,,,,,,0
