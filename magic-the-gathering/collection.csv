@@ -356,8 +356,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 22,18,Chimney Imp,Mirrodin,59,Near Mint,English,,,,,,,,0
 20,16,Chittering Rats,Darksteel,39,Near Mint,English,,,,,,,,0
 1,0,Choice of Damnations,Saviors of Kamigawa,62,Near Mint,English,,,,,,,,0
-1,0,Choking Sands,Mirage,11,Near Mint,Italian,,,,,,,,0
 3,0,Choking Sands,Mirage,11,Near Mint,English,,,,,,,,0
+1,0,Choking Sands,Mirage,11,Near Mint,Italian,,,,,,,,0
 2,0,Chorus of Woe,Portal Second Age,5,Near Mint,English,,,,,,,,0
 3,1,Chromatic Sphere,Invasion,299,Near Mint,English,,,,,,,,0
 19,17,Chromatic Sphere,Mirrodin,151,Near Mint,English,,,,,,,,0
@@ -502,11 +502,16 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Cursed Totem,Mirage,264,Near Mint,English,,,,,,,,0
 16,12,Cutthroat il-Dal,Future Sight,64,Near Mint,English,,,,,,,,0
 8,4,Cyclopean Giant,Time Spiral,100,Near Mint,English,,,,,,,,0
-2,0,Cyclopean Mummy,Legends,7,Near Mint,English,,,,,,,,0
 2,0,Cyclopean Mummy,Legends,7,Near Mint,Italian,,,,,,,,0
+2,0,Cyclopean Mummy,Legends,7,Near Mint,English,,,,,,,,0
 14,14,Cyclopean Mummy,Fourth Edition,12,Near Mint,English,,,,,,,,0
 2,0,Cyclopean Snare,Ravnica: City of Guilds,259,Near Mint,English,,,,,,,,0
 1,0,Cyclopean Tomb,Limited Edition Beta,242,Near Mint,English,,,,,,,,0
+4,0,Daggerclaw Imp,Guildpact,48,Near Mint,English,,,,,,,,0
+4,0,Daggerdrome Imp,Battlebond,140,Near Mint,English,,,,,,,,0
+2,0,Dakmor Lancer,Seventh Edition,126,Near Mint,English,,,,,,,,0
+1,0,Dakmor Scorpion,Starter 1999,73,Near Mint,English,,,,,,,,0
+1,0,Dakmor Sorceress,Portal Second Age,11,Near Mint,English,,,,,,,,0
 1,0,Damnation,Planar Chaos,85,Near Mint,English,,,,,,,,0
 1,0,Damping Engine,Urza's Legacy,124,Near Mint,English,,,,,,,,0
 2,0,Damping Matrix,Mirrodin,161,Near Mint,English,,,,,,,,0
@@ -524,6 +529,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 5,4,Dark Banishing,Seventh Edition,127,Near Mint,English,,,,,,,,0
 5,5,Dark Banishing,Eighth Edition,123,Near Mint,English,,,,,,,,0
 1,1,Dark Banishing,Ninth Edition,122,Near Mint,English,,,,,,,,0
+1,0,Dark Confidant,Ravnica: City of Guilds,81,Near Mint,English,,,,,,,,0
 5,1,Dark Privilege,Visions,6,Near Mint,English,,,,,,,,0
 1,0,Dark Ritual,Beatdown Box Set,21,Near Mint,English,,,,,,,,0
 2,1,Dark Ritual,Masters 25,82,Near Mint,English,,,,,,,,0
@@ -536,11 +542,13 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Dark Ritual,Urza's Saga,127,Near Mint,English,,,,,,,,0
 2,1,Dark Ritual,Mercadian Masques,129,Near Mint,English,,,,,,,,0
 1,0,Dark Salvation,Eldritch Moon,87,Near Mint,English,,,,,,,,
+4,0,Dark Supplicant,Legions,64,Near Mint,English,,,,,,,,0
 1,0,Dark Suspicions,Planeshift,40,Near Mint,English,,,,,,,,0
 1,0,Dark Triumph,Nemesis,55,Near Mint,English,,,,,,,,0
 6,2,Dark Withering,Time Spiral,101,Near Mint,English,,,,,,,,0
 6,2,Darkblast,Ravnica: City of Guilds,82,Near Mint,English,,,,,,,,0
 1,0,Darkest Hour,Seventh Edition,128,Near Mint,English,,,,,,,,0
+6,2,Darkling Stalker,Tempest,13,Near Mint,English,,,,,,,,0
 2,0,Darkness,"Time Spiral ""Timeshifted""",40,Near Mint,English,,,,,,,,0
 1,0,Darkpact,Unlimited Edition,8,Near Mint,English,,,,,,,,0
 1,0,Darkpact,Revised Edition,8,Near Mint,English,,,,,,,,0
@@ -553,14 +561,25 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Darksteel Reactor,Darksteel,114,Near Mint,English,,,,,,,,0
 1,0,Darkwater Egg,Odyssey,299,Near Mint,English,,,,,,,,0
 20,16,Dash Hopes,Planar Chaos,68,Near Mint,English,,,,,,,,0
+1,0,Dauthi Cutthroat,Exodus,57,Near Mint,English,,,,,,,,0
 1,0,Dauthi Embrace,Tempest,14,Near Mint,English,,,,,,,,0
+1,0,Dauthi Ghoul,Tempest,15,Near Mint,English,,,,,,,,0
+4,0,Dauthi Horror,Tempest,16,Near Mint,English,,,,,,,,0
+1,0,Dauthi Jackal,Exodus,58,Near Mint,English,,,,,,,,0
+2,0,Dauthi Marauder,Tempest,17,Near Mint,English,,,,,,,,0
+1,0,Dauthi Mercenary,Tempest,18,Near Mint,English,,,,,,,,0
+1,0,Dauthi Slayer,Tempest,20,Near Mint,English,,,,,,,,0
+5,1,Dauthi Trapper,Stronghold,6,Near Mint,English,,,,,,,,0
 2,0,Dawn of the Dead,Torment,59,Near Mint,English,,,,,,,,0
 1,0,Dead Reckoning,Worldwake,56,Near Mint,English,,,,,,,,0
 6,2,Dead Ringers,Apocalypse,37,Near Mint,English,,,,,,,,0
 7,3,Dead-Iron Sledge,Mirrodin,162,Near Mint,English,,,,,,,,0
+1,0,Deadhead,Unglued,30,Near Mint,English,,,,,,,,0
 1,0,Deadly Designs,Masters 25,83,Near Mint,English,,,,,,,,0
+19,15,Deadly Grub,Planar Chaos,69,Near Mint,English,,,,,,,,0
 1,0,Death Baron,Shards of Alara,70,Near Mint,English,,,,,,,,0
 11,7,Death Bomb,Planeshift,41,Near Mint,English,,,,,,,,0
+2,0,Death Charmer,Prophecy,61,Near Mint,English,,,,,,,,0
 3,0,Death Cloud,Darksteel,40,Near Mint,English,,,,,,,,0
 14,10,Death Denied,Saviors of Kamigawa,63,Near Mint,English,,,,,,,,0
 2,0,Death Match,Onslaught,136,Near Mint,English,,,,,,,,0
@@ -570,25 +589,42 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 11,7,Death Stroke,Stronghold,7,Near Mint,English,,,,,,,,0
 1,0,Death Watch,Visions,7,Near Mint,English,,,,,,,,0
 2,0,Death's Duet,Exodus,60,Near Mint,English,,,,,,,,0
+3,0,Death's-Head Buzzard,Masters 25,84,Near Mint,English,,,,,,,,0
+18,17,Death's-Head Buzzard,Scourge,63,Near Mint,English,,,,,,,,0
 6,2,Death-Mask Duplicant,Darksteel,115,Near Mint,English,,,,,,,,0
+15,11,Deathcurse Ogre,Champions of Kamigawa,109,Near Mint,English,,,,,,,,0
+1,0,Deathgazer,Eighth Edition,126,Near Mint,English,,,,,,,,0
+3,0,Deathgazer,Ninth Edition,124,Near Mint,English,,,,,,,,0
+4,0,Deathgreeter,Shards of Alara,71,Near Mint,English,,,,,,,,0
 5,4,Deathgrip,Revised Edition,9,Near Mint,English,,,,,,,,0
 3,0,Deathgrip,Fourth Edition,14,Near Mint,English,,,,,,,,0
+12,8,Deathknell Kami,Saviors of Kamigawa,65,Near Mint,English,,,,,,,,0
 4,0,Deathlace,Revised Edition,10,Near Mint,English,,,,,,,,0
 2,0,Deathmark,Coldsnap,54,Near Mint,English,,,,,,,,0
 1,0,Deathmark,Magic 2010,90,Near Mint,English,,,,,,,,0
+9,5,Deathmark Prelate,Legions,65,Near Mint,English,,,,,,,,0
+10,6,Deathmask Nezumi,Saviors of Kamigawa,66,Near Mint,English,,,,,,,,0
 1,0,Deathrender,Lorwyn,255,Near Mint,English,,,,,,,,0
+6,2,Deathspore Thallid,Time Spiral,102,Near Mint,English,,,,,,,,0
 1,0,Decompose,Odyssey,128,Near Mint,English,,,,,,,,0
 2,0,Decree of Pain,Scourge,64,Near Mint,English,,,,,,,,0
+12,8,Deepcavern Imp,Future Sight,83,Near Mint,English,,,,,,,,0
+1,0,Deepwood Ghoul,Mercadian Masques,131,Near Mint,English,,,,,,,,0
+4,1,Deepwood Ghoul,Eighth Edition,127,Near Mint,English,,,,,,,,0
 1,0,Defiling Tears,Invasion,99,Near Mint,English,,,,,,,,0
 9,5,Delif's Cone,Fallen Empires,169,Near Mint,English,,,,,,,,0
 4,0,Delif's Cube,Fallen Empires,170,Near Mint,English,,,,,,,,0
 18,14,Delirium Skeins,Dissension,41,Near Mint,English,,,,,,,,0
+3,0,Demon's Herald,Shards of Alara,72,Near Mint,English,,,,,,,,0
 5,1,Demon's Horn,Darksteel,116,Near Mint,English,,,,,,,,0
 1,1,Demon's Horn,Magic 2010,209,Near Mint,English,,,,,,,,0
+18,14,Demon's Jester,Dissension,42,Near Mint,English,,,,,,,,0
 1,0,Demonic Appetite,Rise of the Eldrazi,106,Near Mint,English,,,,,,,,0
 1,0,Demonic Collusion,Time Spiral,103,Near Mint,English,,,,,,,,0
 5,1,Demonic Consultation,Ice Age,9,Near Mint,English,,,,,,,,0
 2,0,Demonic Tutor,Revised Edition,13,Near Mint,English,,,,,,,,
+4,0,Derelor,Fallen Empires,10,Near Mint,English,,,,,,,,0
+1,0,Desecration Elemental,Fifth Dawn,45,Near Mint,English,,,,,,,,0
 3,0,Desolation,Visions,8,Near Mint,English,,,,,,,,0
 1,0,Despoil,Prophecy,62,Near Mint,English,,,,,,,,0
 4,0,Devour in Shadow,Fifth Dawn,46,Near Mint,English,,,,,,,,0
@@ -604,6 +640,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Diabolic Tutor,Magic 2010,91,Near Mint,English,,,,,,,,0
 1,0,Diabolic Tutor,Kaladesh,75,Near Mint,English,,,,,,,,
 1,0,Didgeridoo,Homelands,130,Near Mint,English,,,,,,,,0
+21,17,Dimir House Guard,Ravnica: City of Guilds,83,Near Mint,English,,,,,,,,0
 7,3,Dimir Machinations,Ravnica: City of Guilds,84,Near Mint,English,,,,,,,,0
 21,17,Dimir Signet,Ravnica: City of Guilds,260,Near Mint,English,,,,,,,,0
 4,1,Dingus Egg,Revised Edition,244,Near Mint,English,,,,,,,,0
@@ -613,7 +650,14 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Diregraf Colossus,Shadows over Innistrad,107,Near Mint,English,,,,,,,,
 2,0,Dirge of Dread,Masters 25,86,Near Mint,English,,,,,,,,0
 22,20,Dirge of Dread,Onslaught,138,Near Mint,English,,,,,,,,0
+2,0,Dirtwater Wraith,Mirage,15,Near Mint,English,,,,,,,,0
+12,8,Dirty Wererat,Odyssey,130,Near Mint,English,,,,,,,,0
+15,11,Disciple of Malice,Onslaught,139,Near Mint,English,,,,,,,,0
+7,3,Disciple of Tevesh Szat,Coldsnap,55,Near Mint,English,,,,,,,,0
+17,13,Disciple of the Vault,Mirrodin,62,Near Mint,English,,,,,,,,0
 1,0,Discordant Dirge,Urza's Saga,131,Near Mint,English,,,,,,,,0
+1,0,Disease Carriers,Urza's Destiny,57,Near Mint,English,,,,,,,,0
+3,0,Diseased Vermin,Alliances,5,Near Mint,English,,,,,,,,0
 19,15,Disembowel,Ravnica: City of Guilds,85,Near Mint,English,,,,,,,,0
 1,0,Disentomb,Magic 2010,92,Near Mint,English,,,,,,,,0
 3,0,Disfigure,Masters 25,87,Near Mint,English,,,,,,,,0
@@ -630,6 +674,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,1,Doom Blade,Magic 2010,93,Near Mint,English,,,,,,,,0
 5,1,Doom Blade,Magic 2011,95,Near Mint,English,,,,,,,,0
 3,0,Doom Cannon,Onslaught,307,Near Mint,English,,,,,,,,0
+3,0,Doomed Dissenter,Battlebond,142,Near Mint,English,,,,,,,,0
 1,0,Doomsday,Weatherlight,8,Near Mint,English,,,,,,,,0
 1,0,Door of Destinies,Morningtide,143,Near Mint,English,,,,,,,,0
 1,0,Double Cross,Unglued,31,Near Mint,English,,,,,,,,0
@@ -650,29 +695,70 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 26,26,Drain Life,Revised Edition,14,Near Mint,English,,,,,,,,0
 7,5,Drain Life,Fourth Edition,16,Near Mint,English,,,,,,,,0
 3,1,Drain Life,Mirage,16,Near Mint,English,,,,,,,,0
+1,0,Dread Drone,Rise of the Eldrazi,108,Near Mint,English,,,,,,,,0
 4,0,Dread Return,Time Spiral,104,Near Mint,English,,,,,,,,0
+1,0,Dread Specter,Mirage,17,Near Mint,English,,,,,,,,0
 1,0,Dread Summons,Commander Anthology,56,Near Mint,English,,,,,,,,0
+1,0,Dread Wanderer,Amonkhet,88,Near Mint,English,,,,,,,,0
+1,0,Dread Warlock,Magic 2010,94,Near Mint,English,,,,,,,,0
+4,0,Dread Wight,Ice Age,10,Near Mint,English,,,,,,,,0
+1,0,Dreadwing,Conflux,43,Near Mint,English,,,,,,,,0
 1,0,Dream Chisel,Onslaught,308,Near Mint,English,,,,,,,,0
+8,4,Dreamspoiler Witches,Lorwyn,108,Near Mint,English,,,,,,,,0
+1,0,Dreg Reaver,Shards of Alara,73,Near Mint,English,,,,,,,,0
+4,0,Dregscape Zombie,Shards of Alara,74,Near Mint,English,,,,,,,,0
+4,0,Drekavac,Dissension,43,Near Mint,English,,,,,,,,0
+4,0,Drift of the Dead,Ice Age,11,Near Mint,English,,,,,,,,0
 16,12,Drill-Skimmer,Darksteel,118,Near Mint,English,,,,,,,,0
+2,0,Drinker of Sorrow,Legions,66,Near Mint,English,,,,,,,,0
+20,16,Dripping Dead,Legions,67,Near Mint,English,,,,,,,,0
 1,0,Dromar's Attendant,Invasion,303,Near Mint,English,,,,,,,,0
+19,17,Dross Crocodile,Fifth Dawn,47,Near Mint,English,,,,,,,,0
+3,1,Dross Crocodile,Tenth Edition,138,Near Mint,English,,,,,,,,0
 23,19,Dross Golem,Darksteel,119,Near Mint,English,,,,,,,,0
+2,0,Dross Harvester,Mirrodin,63,Near Mint,English,,,,,,,,0
+18,14,Dross Prowler,Mirrodin,64,Near Mint,English,,,,,,,,0
 19,15,Dross Scorpion,Mirrodin,164,Near Mint,English,,,,,,,,0
+8,4,Drudge Reavers,Time Spiral,105,Near Mint,English,,,,,,,,0
+33,33,Drudge Skeletons,Revised Edition,15,Near Mint,English,,,,,,,,0
+13,12,Drudge Skeletons,Fourth Edition,17,Near Mint,English,,,,,,,,0
+1,1,Drudge Skeletons,Fifth Edition,19,Near Mint,English,,,,,,,,0
+1,0,Drudge Skeletons,Classic Sixth Edition,123,Near Mint,English,,,,,,,,0
+3,3,Drudge Skeletons,Seventh Edition,130,Near Mint,English,,,,,,,,0
+5,5,Drudge Skeletons,Eighth Edition,129,Near Mint,English,,,,,,,,0
+2,1,Drudge Skeletons,Tenth Edition,139,Near Mint,English,,,,,,,,0
+1,0,Drudge Skeletons,Magic 2010,95,Near Mint,English,,,,,,,,0
 8,4,Drudge Spell,Homelands,6,Near Mint,English,,,,,,,,0
 13,11,Dry Spell,Homelands,7,Near Mint,English,,,,,,,,0
 13,11,Dry Spell,Homelands,8,Near Mint,English,,,,,,,,0
+4,0,Dunerider Outlaw,Planar Chaos,86,Near Mint,English,,,,,,,,0
+10,6,Dungeon Shade,Stronghold,8,Near Mint,English,,,,,,,,0
 1,0,Duplicant,Mirrodin,165,Near Mint,English,,,,,,,,0
 3,2,Duress,Urza's Saga,132,Near Mint,English,,,,,,,,0
 4,3,Duress,Seventh Edition,131,Near Mint,English,,,,,,,,0
 1,0,Duress,Magic 2010,96,Near Mint,English,,,,,,,,0
 4,2,Duress,Magic 2011,96,Near Mint,English,,,,,,,,0
+10,8,Dusk Imp,Odyssey,131,Near Mint,English,,,,,,,,0
+6,6,Dusk Imp,Eighth Edition,130,Near Mint,English,,,,,,,,0
+3,1,Dusk Imp,Tenth Edition,140,Near Mint,English,,,,,,,,0
+2,0,Dusk Legion Zealot,Masters 25,89,Near Mint,English,,,,,,,,0
+2,0,Dusk Urchins,Shadowmoor,65,Near Mint,English,,,,,,,,0
+8,4,Duskwalker,Invasion,104,Near Mint,English,,,,,,,,0
 7,3,Duskworker,Mirrodin,166,Near Mint,English,,,,,,,,0
 3,0,Eager Construct,Battlebond,234,Near Mint,English,,,,,,,,0
+11,7,Earsplitting Rats,Judgment,65,Near Mint,English,,,,,,,,0
+5,1,Earthblighter,Legions,68,Near Mint,English,,,,,,,,0
+2,0,Earwig Squad,Morningtide,60,Near Mint,English,,,,,,,,0
+1,0,Eastern Paladin,Seventh Edition,132,Near Mint,English,,,,,,,,0
+4,0,Ebon Drake,Fifth Dawn,48,Near Mint,English,,,,,,,,0
+1,0,Ebonblade Reaper,Onslaught,141,Near Mint,English,,,,,,,,0
 1,0,Ebony Charm,Mirage,18,Near Mint,English,,,,,,,,0
 2,0,Ebony Horse,Revised Edition,247,Near Mint,English,,,,,,,,0
 1,0,Ebony Horse,Fourth Edition,336,Near Mint,English,,,,,,,,0
 3,0,Ebony Owl Netsuke,Saviors of Kamigawa,154,Near Mint,English,,,,,,,,0
 4,1,Ebony Rhino,Homelands,131,Near Mint,English,,,,,,,,0
 22,18,Echoing Decay,Darksteel,41,Near Mint,English,,,,,,,,0
+2,0,El-Hajjâj,Fourth Edition,18,Near Mint,English,,,,,,,,0
 1,0,"Elbrus, the Binding Blade",Dark Ascension,147,Near Mint,English,,,,,,,,0
 16,12,Elf Replica,Mirrodin,167,Near Mint,English,,,,,,,,0
 1,0,Eliminate the Competition,Kaladesh,78,Near Mint,English,,,,,,,,0
@@ -680,8 +766,10 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Elkin Bottle,Ice Age,292,Near Mint,English,,,,,,,,0
 8,4,Elsewhere Flask,Shadowmoor,250,Near Mint,English,,,,,,,,0
 3,0,Elven Lyre,Fallen Empires,172,Near Mint,English,,,,,,,,0
+12,8,Embalmed Brawler,Legions,69,Near Mint,English,,,,,,,,0
 1,0,Embalmer's Tools,Amonkhet,227,Near Mint,English,,,,,,,,0
 9,5,Emblazoned Golem,Apocalypse,136,Near Mint,English,,,,,,,,0
+4,0,Emissary of Despair,Darksteel,42,Near Mint,English,,,,,,,,0
 1,0,Empty the Catacombs,Ravnica: City of Guilds,86,Near Mint,English,,,,,,,,0
 1,0,Empyrial Plate,Mirrodin,168,Near Mint,English,,,,,,,,0
 1,0,Endbringer's Revel,Prophecy,63,Near Mint,English,,,,,,,,0
@@ -689,33 +777,47 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Endless Ranks of the Dead,Innistrad,99,Near Mint,English,,,,,,,,0
 4,0,Endless Scream,Tempest,26,Near Mint,English,,,,,,,,0
 4,0,Endless Whispers,Fifth Dawn,49,Near Mint,English,,,,,,,,0
+2,0,"Endrek Sahr, Master Breeder",Time Spiral,106,Near Mint,English,,,,,,,,0
+15,11,Enemy of the Guildpact,Dissension,44,Near Mint,English,,,,,,,,0
 3,1,Enfeeblement,Mirage,19,Near Mint,English,,,,,,,,0
 4,2,Enfeeblement,Tempest,27,Near Mint,English,,,,,,,,0
 1,1,Enfeeblement,Ninth Edition,127,Near Mint,English,,,,,,,,0
 1,0,Engineered Explosives,Fifth Dawn,118,Near Mint,English,,,,,,,,0
 2,0,Engineered Plague,Urza's Legacy,51,Near Mint,English,,,,,,,,0
 3,0,Enslave,Planar Chaos,70,Near Mint,English,,,,,,,,0
+1,0,Enslaved Horror,Mercadian Masques,134,Near Mint,English,,,,,,,,0
 1,0,Ensnaring Bridge,Stronghold,127,Near Mint,English,,,,,,,,0
 4,0,Ensouled Scimitar,Fifth Dawn,119,Near Mint,English,,,,,,,,0
+2,0,Entrails Feaster,Onslaught,143,Near Mint,English,,,,,,,,0
+19,15,Entropic Eidolon,Dissension,45,Near Mint,English,,,,,,,,0
 1,0,Eon Hub,Fifth Dawn,120,Near Mint,English,,,,,,,,0
 1,0,Epochrasite,Future Sight,162,Near Mint,English,,,,,,,,0
 8,4,Eradicate,Betrayers of Kamigawa,65,Near Mint,English,,,,,,,,0
+3,1,Erg Raiders,Masters 25,90,Near Mint,English,,,,,,,,0
+24,24,Erg Raiders,Revised Edition,17,Near Mint,English,,,,,,,,0
+9,8,Erg Raiders,Fourth Edition,19,Near Mint,English,,,,,,,,0
+2,1,Erg Raiders,Fifth Edition,20,Near Mint,English,,,,,,,,0
 1,0,Ersatz Gnomes,Mirage,266,Near Mint,English,,,,,,,,0
 1,0,Essence Bottle,Tempest,276,Near Mint,English,,,,,,,,0
 15,12,Essence Drain,Darksteel,43,Near Mint,English,,,,,,,,0
 1,0,Essence Drain,Tenth Edition,141,Near Mint,English,,,,,,,,0
 7,3,Etched Oracle,Fifth Dawn,121,Near Mint,English,,,,,,,,0
 1,0,Ethersworn Canonist,Shards of Alara,10,Near Mint,English,,,,,,,,0
+1,0,Evil Eye of Orms-by-Gore,Fifth Edition,21,Near Mint,English,,,,,,,,0
+1,0,Evil Eye of Urborg,Time Spiral,107,Near Mint,English,,,,,,,,0
 8,8,Evil Presence,Revised Edition,18,Near Mint,English,,,,,,,,0
 3,0,Evil Presence,Fourth Edition,20,Near Mint,English,,,,,,,,0
 1,0,Evil Presence,Fifth Edition,22,Near Mint,English,,,,,,,,0
 3,0,Evincar's Justice,Tempest,28,Near Mint,English,,,,,,,,0
+1,0,Eviscerator,Urza's Legacy,52,Near Mint,English,,,,,,,,0
 1,0,Evolution Vat,Dissension,161,Near Mint,English,,,,,,,,0
 1,0,Execute,Odyssey,133,Near Mint,English,,,,,,,,0
 1,0,Execute,Ninth Edition,128,Near Mint,English,,,,,,,,0
 2,0,Executioner's Capsule,Shards of Alara,75,Near Mint,English,,,,,,,,0
 5,1,Exhume,Urza's Saga,134,Near Mint,English,,,,,,,,0
+6,2,Exhumer Thrull,Guildpact,50,Near Mint,English,,,,,,,,0
 3,0,Exile into Darkness,Saviors of Kamigawa,67,Near Mint,English,,,,,,,,0
+10,6,Exiled Boggart,Lorwyn,109,Near Mint,English,,,,,,,,0
 6,2,Exotic Curse,Invasion,105,Near Mint,English,,,,,,,,0
 4,0,Exotic Disease,Planeshift,43,Near Mint,English,,,,,,,,0
 1,0,Expedition Map,Zendikar,201,Near Mint,English,,,,,,,,0
@@ -724,6 +826,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Extirpate,Planar Chaos,71,Near Mint,English,,,,,,,,0
 4,0,Extraplanar Lens,Mirrodin,169,Near Mint,English,,,,,,,,0
 1,0,Extruder,Urza's Destiny,130,Near Mint,English,,,,,,,,0
+5,1,Eyeblight Assassin,Battlebond,143,Near Mint,English,,,,,,,,0
 8,4,Eyeblight's Ending,Lorwyn,110,Near Mint,English,,,,,,,,0
 2,0,Fade from Memory,Onslaught,144,Near Mint,English,,,,,,,,0
 2,0,Faerie Tauntings,Lorwyn,112,Near Mint,English,,,,,,,,0
@@ -1772,8 +1875,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Thoughtseize,Lorwyn,145,Near Mint,English,,,,,,,,0
 1,0,Thousand-Year Elixir,Lorwyn,263,Near Mint,English,,,,,,,,0
 1,0,Thran Tome,Weatherlight,160,Near Mint,English,,,,,,,,0
-1,0,Thran War Machine,Urza's Legacy,134,Near Mint,English,,,,,,,,0
 1,1,Thran War Machine,Urza's Legacy,134,Near Mint,English,,,,,misprint,,,0
+1,0,Thran War Machine,Urza's Legacy,134,Near Mint,English,,,,,,,,0
 12,8,Three Tragedies,Betrayers of Kamigawa,87,Near Mint,English,,,,,,,,0
 1,0,Thrilling Encore,Battlebond,53,Near Mint,English,,,,,,,,0
 8,8,Throne of Bone,Revised Edition,279,Near Mint,English,,,,,,,,0
