@@ -513,8 +513,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Cursed Totem,Mirage,264,Near Mint,English,,,,,,,,0
 16,12,Cutthroat il-Dal,Future Sight,64,Near Mint,English,,,,,,,,0
 8,4,Cyclopean Giant,Time Spiral,100,Near Mint,English,,,,,,,,0
-2,0,Cyclopean Mummy,Legends,7,Near Mint,Italian,,,,,,,,0
 2,0,Cyclopean Mummy,Legends,7,Near Mint,English,,,,,,,,0
+2,0,Cyclopean Mummy,Legends,7,Near Mint,Italian,,,,,,,,0
 14,14,Cyclopean Mummy,Fourth Edition,12,Near Mint,English,,,,,,,,0
 2,0,Cyclopean Snare,Ravnica: City of Guilds,259,Near Mint,English,,,,,,,,0
 1,0,Cyclopean Tomb,Limited Edition Beta,242,Near Mint,English,,,,,,,,0
@@ -995,8 +995,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Ghost-Lit Stalker,Saviors of Kamigawa,69,Near Mint,English,,,,,,,,0
 4,0,Ghostly Changeling,Lorwyn,116,Near Mint,English,,,,,,,,0
 1,0,Ghostly Prison,Champions of Kamigawa,10,Near Mint,English,,,,,,,,0
-1,0,Ghosts of the Damned,Legends,12,Near Mint,Italian,,,,,,,,0
 3,0,Ghosts of the Damned,Legends,12,Near Mint,English,,,,,,,,0
+1,0,Ghosts of the Damned,Legends,12,Near Mint,Italian,,,,,,,,0
 1,0,Ghoul's Feast,Mercadian Masques,137,Near Mint,English,,,,,,,,0
 1,0,Ghoulcaller Gisa,Commander 2014,23,Near Mint,English,,,,,,,,0
 5,3,Giant Cockroach,Urza's Legacy,54,Near Mint,English,,,,,,,,0
@@ -1094,16 +1094,27 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Gust-Skimmer,Mirrodin Besieged,108,Near Mint,English,,,,,,,,0
 9,5,Gutless Ghoul,Coldsnap,60,Near Mint,English,,,,,,,,0
 2,0,Gutwrencher Oni,Champions of Kamigawa,113,Near Mint,English,,,,,,,,0
+1,0,"Haakon, Stromgald Scourge",Coldsnap,61,Near Mint,English,,,,,,,,0
 4,0,Hair-Strung Koto,Champions of Kamigawa,252,Near Mint,English,,,,,,,,0
 1,0,Hallowed Fountain,Dissension,174,Near Mint,English,,,,,,,,0
+3,0,Hand of Cruelty,Saviors of Kamigawa,71,Near Mint,English,,,,,,,,0
 2,0,Hand of Death,Portal Second Age,14,Near Mint,English,,,,,,,,0
 2,0,Hand of Death,Starter 1999,80,Near Mint,English,,,,,,,,0
 2,0,Hand of Emrakul,Rise of the Eldrazi,5,Near Mint,English,,,,,,,,0
+4,0,Hand of Silumgar,Battlebond,146,Near Mint,English,,,,,,,,0
 5,1,Hankyu,Champions of Kamigawa,253,Near Mint,English,,,,,,,,0
 1,0,"Hanna, Ship's Navigator",Invasion,249,Near Mint,English,,,,,,,,0
+28,26,Hasran Ogress,Chronicles,6,Near Mint,English,,,,,,,,0
+2,0,Hasran Ogress,Arabian Nights,6,Near Mint,English,,,,,,,,0
+2,0,Hate Weaver,Invasion,108,Near Mint,English,,,,,,,,0
+21,17,Haunted Cadaver,Onslaught,154,Near Mint,English,,,,,,,,0
 4,0,Haunting Hymn,Time Spiral,112,Near Mint,English,,,,,,,,0
 6,2,Haunting Misery,Weatherlight,13,Near Mint,English,,,,,,,,0
+2,0,Havoc Demon,Legions,74,Near Mint,English,,,,,,,,0
+3,0,He Who Hungers,Champions of Kamigawa,114,Near Mint,English,,,,,,,,0
 4,0,Head Games,Onslaught,155,Near Mint,English,,,,,,,,0
+5,1,Headhunter,Onslaught,156,Near Mint,English,,,,,,,,0
+2,0,Headless Horseman,Legends,16,Near Mint,English,,,,,,,,0
 4,0,Headstone,Homelands,15,Near Mint,English,,,,,,,,0
 19,15,Healer's Headdress,Fifth Dawn,129,Near Mint,English,,,,,,,,0
 3,0,Heap Doll,Shadowmoor,253,Near Mint,English,,,,,,,,0
@@ -1113,12 +1124,14 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Hedron Rover,Worldwake,125,Near Mint,English,,,,,,,,0
 16,12,Heliophial,Fifth Dawn,130,Near Mint,English,,,,,,,,0
 1,0,Hell Swarm,Legends,17,Near Mint,English,,,,,,,,0
-1,0,Helldozer,Ravnica: City of Guilds,88,Near Mint,English,,,,,,,,
+4,0,Hell's Caretaker,Chronicles,7,Near Mint,English,,,,,,,,0
+2,0,Helldozer,Ravnica: City of Guilds,88,Near Mint,English,,,,,,,,
 2,0,Helm of Chatzuk,Revised Edition,250,Near Mint,English,,,,,,,,0
 1,0,Helm of Kaldra,Fifth Dawn,131,Near Mint,English,,,,,,,,0
 20,16,Hematite Golem,Mirrodin,185,Near Mint,English,,,,,,,,0
 4,0,Hematite Talisman,Ice Age,295,Near Mint,English,,,,,,,,0
 1,0,Henge Guardian,Mercadian Masques,297,Near Mint,English,,,,,,,,0
+2,0,Herald of Leshrac,Coldsnap,62,Near Mint,English,,,,,,,,0
 1,0,Herald of the Pantheon,Commander 2018,151,Near Mint,English,,,,,,,,0
 11,7,Herbal Poultice,Lorwyn,257,Near Mint,English,,,,,,,,0
 3,0,Hero's Demise,Betrayers of Kamigawa,68,Near Mint,English,,,,,,,,0
@@ -1127,10 +1140,21 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 4,0,Hexplate Golem,Battlebond,237,Near Mint,English,,,,,,,,0
 1,1,Hexplate Golem,Mirrodin Besieged,109,Near Mint,English,,,,,,,,0
 8,4,Hideous Laughter,Champions of Kamigawa,115,Near Mint,English,,,,,,,,0
+2,2,Highway Robber,Ninth Edition,138,Near Mint,English,,,,,,,,0
+6,2,Highway Robber,Tenth Edition,150,Near Mint,English,,,,,,,,0
+3,0,Hired Muscle,Betrayers of Kamigawa,69,Near Mint,English,,,,,,,,0
 4,0,Hissing Miasma,Guildpact,51,Near Mint,English,,,,,,,,0
 1,0,Hivestone,Time Spiral,256,Near Mint,English,,,,,,,,0
+16,12,Hoar Shade,Ice Age,19,Near Mint,English,,,,,,,,0
 6,2,Hoarder's Greed,Lorwyn,117,Near Mint,English,,,,,,,,0
-4,0,Honden of Night's Reach,Champions of Kamigawa,116,Near Mint,English,,,,,,,,0
+2,2,Hollow Dogs,Starter 1999,81,Near Mint,English,,,,,,,,0
+4,1,Hollow Dogs,Urza's Saga,137,Near Mint,English,,,,,,,,0
+12,11,Hollow Dogs,Seventh Edition,141,Near Mint,English,,,,,,,,0
+3,3,Hollow Dogs,Ninth Edition,139,Near Mint,English,,,,,,,,0
+2,0,Hollow Specter,Legions,75,Near Mint,English,,,,,,,,0
+1,0,Hollowborn Barghest,Shadowmoor,68,Near Mint,English,,,,,,,,0
+1,0,Hollowsage,Shadowmoor,69,Near Mint,English,,,,,,,,0
+5,1,Honden of Night's Reach,Champions of Kamigawa,116,Near Mint,English,,,,,,,,0
 6,2,Honor-Worn Shaku,Champions of Kamigawa,254,Near Mint,English,,,,,,,,0
 15,11,Hoof Skulkin,Eventide,169,Near Mint,English,,,,,,,,0
 1,0,Horizon Spellbomb,Scars of Mirrodin,165,Near Mint,English,,,,,,,,0
@@ -1138,9 +1162,12 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Horn of Greed,Stronghold,129,Near Mint,English,,,,,,,,0
 16,12,Horned Helm,Fifth Dawn,132,Near Mint,English,,,,,,,,0
 3,0,Hornet Cannon,Stronghold,130,Near Mint,English,,,,,,,,0
+4,0,Hornet Harasser,Lorwyn,118,Near Mint,English,,,,,,,,0
 23,19,Horobi's Whisper,Betrayers of Kamigawa,70,Near Mint,English,,,,,,,,0
+1,0,"Horobi, Death's Wail",Champions of Kamigawa,117,Near Mint,English,,,,,,,,0
 1,0,Horrible Hordes,Mirage,269,Near Mint,English,,,,,,,,0
 1,0,Horror of Horrors,Ninth Edition,140,Near Mint,English,,,,,,,,0
+3,0,Horror of the Broken Lands,Masters 25,93,Near Mint,English,,,,,,,,0
 2,2,Howl from Beyond,Unlimited Edition,20,Near Mint,English,,,,,,,,0
 24,24,Howl from Beyond,Revised Edition,22,Near Mint,English,,,,,,,,0
 12,11,Howl from Beyond,Fourth Edition,25,Near Mint,English,,,,,,,,0
@@ -1148,16 +1175,23 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,1,Howl from Beyond,Fifth Edition,30,Near Mint,English,,,,,,,,0
 1,0,Howl from Beyond,Classic Sixth Edition,138,Near Mint,English,,,,,,,,0
 3,2,Howl from Beyond,Seventh Edition,142,Near Mint,English,,,,,,,,0
+1,0,Howling Banshee,Magic 2010,99,Near Mint,English,,,,,,,,0
 1,0,Howling Mine,Revised Edition,251,Near Mint,English,,,,,,,,0
 1,0,Howling Mine,Fourth Edition,343,Near Mint,English,,,,,,,,0
 1,0,Howling Mine,Eighth Edition,303,Near Mint,English,,,,,,,,0
 19,15,Hunger of the Nim,Darksteel,46,Near Mint,English,,,,,,,,0
+3,0,Hunted Horror,Ravnica: City of Guilds,90,Near Mint,English,,,,,,,,0
+3,0,Hunter of Eyeblights,Lorwyn,119,Near Mint,English,,,,,,,,0
+3,0,Hyalopterous Lemure,Ice Age,21,Near Mint,English,,,,,,,,0
 1,0,Hydra Omnivore,Commander 2018,153,Near Mint,English,,,,,,,,0
 3,2,Hymn to Tourach,Fallen Empires,12,Near Mint,English,,,,,,,,0
 9,8,Hymn to Tourach,Fallen Empires,13,Near Mint,English,,,,,,,,0
 8,7,Hymn to Tourach,Fallen Empires,14,Near Mint,English,,,,,,,,0
 7,6,Hymn to Tourach,Fallen Empires,15,Near Mint,English,,,,,,,,0
 5,1,Hypnotic Cloud,Invasion,109,Near Mint,English,,,,,,,,0
+9,8,Hypnotic Specter,Revised Edition,23,Near Mint,English,,,,,,,,0
+2,0,Hypnotic Specter,Fourth Edition,26,Near Mint,English,,,,,,,,0
+1,0,Hypnotic Specter,Tenth Edition,151,Near Mint,English,,,,,,,,0
 1,0,Ice Cauldron,Ice Age,296,Near Mint,English,,,,,,,,0
 4,0,Icequake,Ice Age,22,Near Mint,English,,,,,,,,0
 15,11,Ichor Slick,Future Sight,68,Near Mint,English,,,,,,,,0
@@ -1166,6 +1200,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 6,4,Icy Manipulator,Mirrodin,186,Near Mint,English,,,,,,,,0
 1,0,Idyllic Tutor,Morningtide,12,Near Mint,English,,,,,,,,0
 1,0,Igneous Golem,Mirage,270,Near Mint,English,,,,,,,,0
+1,0,Ihsan's Shade,Masters 25,94,Near Mint,English,,,,,,,,0
+5,2,Ihsan's Shade,Homelands,16,Near Mint,English,,,,,,,,0
 3,0,Illuminated Folio,Shadowmoor,254,Near Mint,English,,,,,,,,0
 3,0,Imi Statue,Champions of Kamigawa,255,Near Mint,English,,,,,,,,0
 1,0,Immortal Coil,Shards of Alara,79,Near Mint,English,,,,,,,,0
@@ -1173,20 +1209,31 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Implements of Sacrifice,Fallen Empires,173,Near Mint,English,,,,,,,,0
 1,0,Imps' Taunt,Tempest,32,Near Mint,English,,,,,,,,0
 1,0,In Bolas's Clutches,Dominaria,54,Near Mint,English,,,,,,,,
+3,0,"Iname, Death Aspect",Champions of Kamigawa,118,Near Mint,English,,,,,,,,0
 3,0,Incremental Blight,Shadowmoor,70,Near Mint,English,,,,,,,,0
+3,0,Infected Vermin,Odyssey,144,Near Mint,English,,,,,,,,0
+18,14,Infectious Host,Ravnica: City of Guilds,91,Near Mint,English,,,,,,,,0
+23,19,Infernal Caretaker,Legions,76,Near Mint,English,,,,,,,,0
 1,0,Infernal Contract,Seventh Edition,143,Near Mint,English,,,,,,,,0
 3,0,Infernal Darkness,Ice Age,23,Near Mint,English,,,,,,,,0
 8,4,Infernal Harvest,Visions,12,Near Mint,English,,,,,,,,0
+2,0,Infernal Kirin,Saviors of Kamigawa,72,Near Mint,English,,,,,,,,0
 2,0,Infernal Tutor,Dissension,46,Near Mint,English,,,,,,,,0
 5,2,Infest,Onslaught,157,Near Mint,English,,,,,,,,0
 1,0,Infest,Shards of Alara,80,Near Mint,English,,,,,,,,0
 2,0,Infiltration Lens,Scars of Mirrodin,167,Near Mint,English,,,,,,,,0
 3,0,Infinite Hourglass,Ice Age,298,Near Mint,English,,,,,,,,0
 4,0,Infused Arrows,Fifth Dawn,133,Near Mint,English,,,,,,,,0
+11,9,Initiates of the Ebon Hand,Fallen Empires,16,Near Mint,English,,,,,,,,0
+13,12,Initiates of the Ebon Hand,Fallen Empires,17,Near Mint,English,,,,,,,,0
+12,11,Initiates of the Ebon Hand,Fallen Empires,18,Near Mint,English,,,,,,,,0
+4,0,"Ink-Eyes, Servant of Oni",Betrayers of Kamigawa,71,Near Mint,English,,,,,,,,0
 1,0,Inner Demon,Battlebond,48,Near Mint,English,,,,,,,,0
 14,10,Innocent Blood,Odyssey,145,Near Mint,English,,,,,,,,0
 9,5,Inquisition,The Dark,9,Near Mint,English,,,,,,,,0
+1,0,Insidious Bookworms,Alliances,12,Near Mint,English,,,,,,,,0
 1,0,Insidious Dreams,Torment,66,Near Mint,English,,,,,,,,0
+6,2,Irini Sengir,Homelands,17,Near Mint,English,,,,,,,,0
 1,0,Iron Lance,Mercadian Masques,300,Near Mint,English,,,,,,,,0
 1,0,Iron Maiden,Urza's Legacy,127,Near Mint,English,,,,,,,,0
 16,12,Iron Myr,Mirrodin,187,Near Mint,English,,,,,,,,0
@@ -1211,6 +1258,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Jabari's Banner,Weatherlight,150,Near Mint,English,,,,,,,,0
 6,2,Jade Idol,Champions of Kamigawa,256,Near Mint,English,,,,,,,,0
 1,0,Jade Monolith,Revised Edition,255,Near Mint,English,,,,,,,,0
+1,0,Jagwasp Swarm,Worldwake,58,Near Mint,English,,,,,,,,0
 2,0,Jalum Tome,Chronicles,81,Near Mint,English,,,,,,,,0
 1,0,Jalum Tome,Antiquities,19,Near Mint,English,,,,,,,,0
 2,0,Jandor's Ring,Revised Edition,256,Near Mint,English,,,,,,,,0
@@ -1240,28 +1288,55 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Junk Golem,Odyssey,300,Near Mint,English,,,,,,,,0
 6,2,Junktroller,Ravnica: City of Guilds,264,Near Mint,English,,,,,,,,0
 2,0,Junkyo Bell,Champions of Kamigawa,258,Near Mint,English,,,,,,,,0
+4,0,Junún Efreet,Fourth Edition,27,Near Mint,English,,,,,,,,0
 1,0,Kaervek's Hex,Mirage,28,Near Mint,English,,,,,,,,0
 1,0,Kaervek's Spite,Visions,13,Near Mint,English,,,,,,,,0
 12,8,Kagemaro's Clutch,Saviors of Kamigawa,74,Near Mint,English,,,,,,,,0
+2,0,"Kagemaro, First to Suffer",Saviors of Kamigawa,73,Near Mint,English,,,,,,,,0
+8,4,Kami of Empty Graves,Saviors of Kamigawa,75,Near Mint,English,,,,,,,,0
+3,0,Kami of Lunacy,Champions of Kamigawa,119,Near Mint,English,,,,,,,,0
+19,15,Kami of the Waning Moon,Champions of Kamigawa,120,Near Mint,English,,,,,,,,0
+4,0,Keening Banshee,Ravnica: City of Guilds,92,Near Mint,English,,,,,,,,0
+1,0,Keeper of the Dead,Exodus,65,Near Mint,English,,,,,,,,0
+1,0,Kelinore Bat,Magic 2010,101,Near Mint,English,,,,,,,,0
+2,0,Kemuri-Onna,Saviors of Kamigawa,76,Near Mint,English,,,,,,,,0
 2,0,Kiku's Shadow,Saviors of Kamigawa,77,Near Mint,English,,,,,,,,0
+2,0,"Kiku, Night's Flower",Champions of Kamigawa,121,Near Mint,English,,,,,,,,0
 1,0,Kitesail,Worldwake,126,Near Mint,English,,,,,,,,0
+26,22,Kjeldoran Dead,Ice Age,25,Near Mint,English,,,,,,,,0
+1,0,Knight of Dusk,Tempest,34,Near Mint,English,,,,,,,,0
+1,0,Knight of Dusk,Tenth Edition,152,Near Mint,English,,,,,,,,0
+5,1,Knight of Stromgald,Ice Age,26,Near Mint,English,,,,,,,,0
+1,1,Knight of Stromgald,Fifth Edition,33,Near Mint,English,,,,,,,,0
+3,0,"Kokusho, the Evening Star",Champions of Kamigawa,122,Near Mint,English,,,,,,,,0
 3,0,Konda's Banner,Champions of Kamigawa,259,Near Mint,English,,,,,,,,0
 5,1,Kor Dirge,Planar Chaos,87,Near Mint,English,,,,,,,,0
+1,0,"Korlash, Heir to Blackblade",Future Sight,87,Near Mint,English,,,,,,,,0
 1,0,Koskun Falls,Homelands,18,Near Mint,English,,,,,,,,0
 6,4,Kraken's Eye,Darksteel,126,Near Mint,English,,,,,,,,0
 2,0,Kraken's Eye,Tenth Edition,329,Near Mint,English,,,,,,,,0
 1,0,Krark's Thumb,Mirrodin,190,Near Mint,English,,,,,,,,0
 5,1,Krark-Clan Ironworks,Fifth Dawn,134,Near Mint,English,,,,,,,,0
+1,0,"Krav, the Unredeemed",Battlebond,4,Near Mint,English,,,,,,,,0
+4,0,Krovikan Elementalist,Ice Age,27,Near Mint,English,,,,,,,,0
 23,19,Krovikan Fetish,Ice Age,28,Near Mint,English,,,,,,,,0
 1,1,Krovikan Fetish,Fifth Edition,34,Near Mint,English,,,,,,,,0
+1,0,Krovikan Horror,Alliances,15,Near Mint,English,,,,,,,,0
 4,0,Krovikan Plague,Alliances,16,Near Mint,English,,,,,,,,0
+9,5,Krovikan Scoundrel,Coldsnap,64,Near Mint,English,,,,,,,,0
+1,0,Krovikan Vampire,Ice Age,29,Near Mint,English,,,,,,,,0
 1,0,Kruphix's Insight,Commander 2018,155,Near Mint,English,,,,,,,,0
 1,0,"Kruphix, God of Horizons",Journey into Nyx,152,Near Mint,English,,,,,,,,0
+1,0,"Kuon, Ogre Ascendant",Saviors of Kamigawa,78,Near Mint,English,,,,,,,,0
+6,2,Kuro's Taken,Saviors of Kamigawa,79,Near Mint,English,,,,,,,,0
+2,0,"Kuro, Pitlord",Champions of Kamigawa,123,Near Mint,English,,,,,,,,0
 4,0,Kusari-Gama,Champions of Kamigawa,260,Near Mint,English,,,,,,,,0
+6,2,"Kyoki, Sanity's Eclipse",Betrayers of Kamigawa,72,Near Mint,English,,,,,,,,0
 10,6,Lab Rats,Stronghold,11,Near Mint,English,,,,,,,,0
 1,0,Land Tax,Battlebond,94,Near Mint,English,,,,,,,,0
 6,2,Lantern of Insight,Fifth Dawn,135,Near Mint,English,,,,,,,,0
 5,1,Lapis Lazuli Talisman,Ice Age,302,Near Mint,English,,,,,,,,0
+1,0,Laquatus's Champion,Torment,67,Near Mint,English,,,,,,,,0
 9,5,Last Caress,Apocalypse,41,Near Mint,English,,,,,,,,0
 5,3,Last Gasp,Battlebond,147,Near Mint,English,,,,,,,,0
 22,20,Last Gasp,Ravnica: City of Guilds,93,Near Mint,English,,,,,,,,0
@@ -1271,12 +1346,15 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Lead-Belly Chimera,Visions,148,Near Mint,English,,,,,,,,0
 22,18,Leaden Myr,Mirrodin,191,Near Mint,English,,,,,,,,0
 8,4,Leashling,Ravnica: City of Guilds,265,Near Mint,English,,,,,,,,0
+1,0,Leeching Licid,Tempest,35,Near Mint,English,,,,,,,,0
 1,0,Leering Emblem,Eventide,171,Near Mint,English,,,,,,,,0
+22,18,Legions of Lim-Dûl,Ice Age,30,Near Mint,English,,,,,,,,0
 5,1,Leonin Bladetrap,Mirrodin,192,Near Mint,English,,,,,,,,0
 19,15,Leonin Bola,Darksteel,127,Near Mint,English,,,,,,,,0
 14,10,Leonin Scimitar,Mirrodin,193,Near Mint,English,,,,,,,,0
 2,0,Leshrac's Rite,Ice Age,31,Near Mint,English,,,,,,,,0
 3,0,Leshrac's Sigil,Ice Age,32,Near Mint,English,,,,,,,,0
+1,0,Lesser Werewolf,Legends,24,Near Mint,English,,,,,,,,0
 5,1,Lethal Vapors,Scourge,68,Near Mint,English,,,,,,,,0
 1,0,Letter Bomb,Unhinged,122,Near Mint,English,,,,,,,,0
 5,1,Leveler,Mirrodin,195,Near Mint,English,,,,,,,,0
@@ -1286,16 +1364,26 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 6,6,Library of Leng,Revised Edition,261,Near Mint,English,,,,,,,,0
 6,3,Library of Leng,Fourth Edition,351,Near Mint,English,,,,,,,,0
 1,0,Library of Leng,Fifth Edition,387,Near Mint,English,,,,,,,,0
+1,0,Liege of the Pit,Time Spiral,113,Near Mint,English,,,,,,,,0
 17,13,Lifespark Spellbomb,Mirrodin,197,Near Mint,English,,,,,,,,0
 4,0,Lightning Coils,Mirrodin,198,Near Mint,English,,,,,,,,0
 6,2,Lightning Greaves,Mirrodin,199,Near Mint,English,,,,,,,,0
+1,0,Liliana of the Dark Realms,Magic 2014 Core Set,102,Near Mint,English,,,,,,,,0
+3,0,Liliana Vess,Lorwyn,121,Near Mint,English,,,,,,,,0
 1,0,Liliana's Mastery,Amonkhet,98,Near Mint,English,,,,,,,,0
 1,0,Liliana's Reaver,Commander 2014,147,Near Mint,English,,,,,,,,0
+2,0,Liliana's Specter,Magic 2011,104,Near Mint,English,,,,,,,,0
 1,0,"Liliana, Death's Majesty",Amonkhet,97,Near Mint,English,,,,,,,,
+1,0,"Liliana, Heretical Healer",Magic Origins,106,Near Mint,English,,,,,,,,0
 1,0,"Liliana, Untouched by Death",Core Set 2019,106,Near Mint,English,,,,,,,,
+1,0,Lim-Dûl the Necromancer,Time Spiral,114,Near Mint,English,,,,,,,,0
+23,19,Lim-Dûl's Cohort,Ice Age,33,Near Mint,English,,,,,,,,0
 7,3,Lim-Dûl's Hex,Ice Age,34,Near Mint,English,,,,,,,,0
+1,0,Lim-Dûl's High Guard,Deckmasters,51,Near Mint,English,,,,,,,,0
+3,0,Lim-Dûl's High Guard,Alliances,18,Near Mint,English,,,,,,,,0
 2,0,Limestone Golem,Odyssey,301,Near Mint,English,,,,,,,,0
 9,5,Lingering Death,Scourge,69,Near Mint,English,,,,,,,,0
+5,1,Lingering Tormentor,Eventide,36,Near Mint,English,,,,,,,,0
 1,0,Lion's Eye Diamond,Mirage,272,Near Mint,English,,,,,,,,0
 5,1,Liturgy of Blood,Battlebond,148,Near Mint,English,,,,,,,,0
 12,9,Living Armor,Chronicles,83,Near Mint,English,,,,,,,,0
@@ -1303,15 +1391,28 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Living Death,Masters 25,96,Near Mint,English,,,,,,,,0
 2,0,Living End,Time Spiral,115,Near Mint,English,,,,,,,,0
 10,6,Living Wall,Revised Edition,262,Near Mint,English,,,,,,,,0
+7,3,Loch Korrigan,Shadowmoor,71,Near Mint,English,,,,,,,,0
 4,0,Locket of Yesterdays,Time Spiral,258,Near Mint,English,,,,,,,,0
 4,0,Lockjaw Snapper,Shadowmoor,255,Near Mint,English,,,,,,,,0
+4,0,Locust Miser,Saviors of Kamigawa,80,Near Mint,English,,,,,,,,0
 2,0,Lodestone Bauble,Alliances,164,Near Mint,English,,,,,,,,0
 3,0,Lodestone Myr,Mirrodin,200,Near Mint,English,,,,,,,,0
 2,0,Long-Forgotten Gohei,Champions of Kamigawa,261,Near Mint,English,,,,,,,,0
+3,1,Looming Shade,Urza's Saga,139,Near Mint,English,,,,,,,,0
+8,8,Looming Shade,Seventh Edition,145,Near Mint,English,,,,,,,,0
+4,4,Looming Shade,Eighth Edition,140,Near Mint,English,,,,,,,,0
+3,3,Looming Shade,Ninth Edition,142,Near Mint,English,,,,,,,,0
+3,2,Looming Shade,Tenth Edition,153,Near Mint,English,,,,,,,,0
+1,0,Looming Shade,Magic 2010,103,Near Mint,English,,,,,,,,0
 1,0,Lord of the Accursed,Amonkhet,99,Near Mint,English,,,,,,,,
-1,0,Lord of the Undead,Planeshift,44,Near Mint,English,,,,,,,,0
+1,0,Lord of the Pit,Revised Edition,24,Near Mint,English,,,,,,,,0
+2,0,Lord of the Undead,Planeshift,44,Near Mint,English,,,,,,,,0
+1,0,Lord of the Undead,Eighth Edition,141,Near Mint,English,,,,,,,,0
 14,10,Lose Hope,Fifth Dawn,52,Near Mint,English,,,,,,,,0
 11,7,Lost Hours,Future Sight,69,Near Mint,English,,,,,,,,0
+4,0,Lost Soul,Legends,25,Near Mint,English,,,,,,,,0
+9,9,Lost Soul,Fourth Edition,29,Near Mint,English,,,,,,,,0
+1,1,Lost Soul,Fifth Edition,37,Near Mint,English,,,,,,,,0
 1,0,Lotus Bloom,Time Spiral,259,Near Mint,English,,,,,,,,0
 1,0,Lotus Guardian,Invasion,305,Near Mint,English,,,,,,,,0
 1,0,Lotus Petal,Tempest,284,Near Mint,English,,,,,,,,0
@@ -1322,6 +1423,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 4,0,Lurebound Scarecrow,Shadowmoor,256,Near Mint,English,,,,,,,,0
 1,0,Lurking Jackals,Urza's Destiny,62,Near Mint,English,,,,,,,,0
 1,0,Lurking Skirge,Urza's Legacy,55,Near Mint,English,,,,,,,,0
+4,0,Lys Alana Scarblade,Lorwyn,122,Near Mint,English,,,,,,,,0
 16,12,Macabre Waltz,Dissension,47,Near Mint,English,,,,,,,,0
 4,0,Magewright's Stone,Dissension,162,Near Mint,English,,,,,,,,0
 2,0,Magma Mine,Visions,149,Near Mint,English,,,,,,,,0
@@ -2043,8 +2145,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Thoughtseize,Lorwyn,145,Near Mint,English,,,,,,,,0
 1,0,Thousand-Year Elixir,Lorwyn,263,Near Mint,English,,,,,,,,0
 1,0,Thran Tome,Weatherlight,160,Near Mint,English,,,,,,,,0
-1,1,Thran War Machine,Urza's Legacy,134,Near Mint,English,,,,,misprint,,,0
 1,0,Thran War Machine,Urza's Legacy,134,Near Mint,English,,,,,,,,0
+1,1,Thran War Machine,Urza's Legacy,134,Near Mint,English,,,,,misprint,,,0
 12,8,Three Tragedies,Betrayers of Kamigawa,87,Near Mint,English,,,,,,,,0
 1,0,Thrilling Encore,Battlebond,53,Near Mint,English,,,,,,,,0
 8,8,Throne of Bone,Revised Edition,279,Near Mint,English,,,,,,,,0
